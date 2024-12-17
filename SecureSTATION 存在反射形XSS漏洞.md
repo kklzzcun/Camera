@@ -4,7 +4,7 @@
 
 ​	The path to access the vulnerable device is as follows：http://VulDevice/web/media/
 
-![image-20241217100348501](C:\Users\酸菜鱼\Desktop\camera\assets\image-20241217100348501.png)
+![image-20241217100348501](https://github.com/kklzzcun/Camera/tree/main/assets/image-20241217100348501.png)
 
  payload：?<script/>eval(/ale/,source+/rt/,source+/(190)/. source)(/script>
 
