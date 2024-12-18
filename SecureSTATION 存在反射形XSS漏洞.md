@@ -2,6 +2,8 @@
 
 ## Vulnerability details：
 
+##Discoverer: Jiayang Zhou 
+
 ​	The path to access the vulnerable device is as follows：http://VulDevice/web/media/
 
 ![image-20241217100348501](https://raw.githubusercontent.com/kklzzcun/Camera/main/assets/1.png)
