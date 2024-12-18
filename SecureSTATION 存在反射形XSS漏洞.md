@@ -12,7 +12,7 @@
 
 A pop-up window will appear after placing the package.
 
-![image-20241217100543071](https://raw.githubusercontent.com/kklzzcun/Camera/main/assets/3.png)
+![image-20241217100543071](https://raw.githubusercontent.com/kklzzcun/Camera/main/assets/4.png)
 
 SecuSTATION Camera V2.5.5.3116-S50-SMA-B20160811A and lower
 
